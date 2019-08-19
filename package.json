@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anishkny/test-github-actions-ci-cd.git"
+    "url": "git@github.com:anishkny/test-github-actions-ci-cd.git"
   },
   "author": "Anish Karandikar <aniskny@gmail.com>",
   "license": "MIT",
@@ -15,5 +15,8 @@
     "url": "https://github.com/anishkny/test-github-actions-ci-cd/issues"
   },
   "homepage": "https://github.com/anishkny/test-github-actions-ci-cd#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "semantic-release": "^15.13.21"
+  }
 }
